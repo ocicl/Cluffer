@@ -1,0 +1,9 @@
+* cluffer
+
+General-purpos text-editor buffer.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/robert-strandh/Cluffer.git |
+| commit  | 0c40c54                                           |
+| systems | cluffer                                           |
+|---------+---------------------------------------------------|
