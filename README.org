@@ -4,6 +4,6 @@ General-purpose text-editor buffer.
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/robert-strandh/Cluffer.git |
-| commit  | 0c40c54                                           |
+| commit  | 0747c91                                           |
 | systems | cluffer                                           |
 |---------+---------------------------------------------------|
